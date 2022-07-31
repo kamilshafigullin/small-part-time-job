@@ -1,0 +1,5 @@
+Marat          Andreev        A             2020
+Andrey         Sokolov        B             2019
+Sasha          Ivanov         B             2019
+Andrey         Sokolov        A             2021
+Dmitriy        Vladimirov     C             2018
