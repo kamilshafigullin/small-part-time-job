@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a7c5e72-5101-41c5-83a2-d6d17bb578c2": {
+      "ProjectGuid": "1a7c5e72-5101-41c5-83a2-d6d17bb578c2",
+      "DisplayName": "CinemaProject",
+      "ColorIndex": 0
+    },
+    "d32c17e9-0fff-44f8-b683-b39d61ce1590": {
+      "ProjectGuid": "d32c17e9-0fff-44f8-b683-b39d61ce1590",
+      "DisplayName": "CinemaProjectHW1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
