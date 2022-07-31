@@ -1,0 +1,4 @@
+Ivanov 30000 5
+Garifullin 25000 3
+Dmitriev 40000 7
+Egorov 45000 9

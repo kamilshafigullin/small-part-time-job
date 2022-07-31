@@ -1,0 +1,22 @@
+#include <iostream>
+
+using namespace std;
+
+//рекурсивный метод
+void PrintReverse(int N)
+{
+    if (N == 0)
+        return;
+    
+    cout << N % 10 << " ";
+    PrintReverse(N / 10);
+}
+
+int main()
+{
+    int N;
+    cout << "Введите N: ";
+    cin >> N;
+
+    PrintReverse(N);
+}

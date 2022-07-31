@@ -1,0 +1,26 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    cout << "Введите строку: ";
+    string str;
+    //считываем строку
+    getline(cin, str);
+
+    cout << "Введите символ: ";
+    char c;
+    cin >> c;
+
+    //вычисляем кол-во символов в строке
+    int count = 0;
+    for (int i = 0; i < str.length(); i++)
+        if (str[i] == c)
+            count++;
+    
+    //вычисляем отношение (находим частоту появления)
+    float result = (float) count / str.length();
+    cout << "Частота появления символа '" << c << "' в строке \"" << str << "\" равна " << result << endl; 
+}

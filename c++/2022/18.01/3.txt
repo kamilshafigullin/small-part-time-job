@@ -1,0 +1,35 @@
+#include <iostream>
+
+using namespace std;
+
+int NOD(int a, int b)
+{
+    while (true)
+    {
+        int ostatok;
+        //делим большее число на меньшее (используя тернарный оператор)
+        ostatok = a > b ? a % b : b % a;
+        //если делится без остатка, возвращаем меньшее число
+        if (ostatok == 0)
+            return a > b ? b : a;
+        
+        //В случае, если ещё не вышли из цикла, заменяем большее число на остаток от деления
+        if (a > b)
+            a = ostatok;
+        else
+            b = ostatok;
+    }
+}
+
+int main()
+{
+    int a;
+    cout << "Введите a: ";
+    cin >> a;
+
+    int b;
+    cout << "Введите b: ";
+    cin >> b;
+
+    cout << "НОД чисел a и b: " << NOD(a, b) << endl;
+}
