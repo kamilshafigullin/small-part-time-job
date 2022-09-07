@@ -1,0 +1,11 @@
+C:\Users\kamil\source\repos\StaticCalculator\StaticCalculator\bin\Debug\StaticCalculator.exe.config
+C:\Users\kamil\source\repos\StaticCalculator\StaticCalculator\bin\Debug\StaticCalculator.exe
+C:\Users\kamil\source\repos\StaticCalculator\StaticCalculator\bin\Debug\StaticCalculator.pdb
+C:\Users\kamil\source\repos\StaticCalculator\StaticCalculator\obj\Debug\StaticCalculator.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\StaticCalculator\StaticCalculator\obj\Debug\StaticCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamil\source\repos\StaticCalculator\StaticCalculator\obj\Debug\StaticCalculator.Form1.resources
+C:\Users\kamil\source\repos\StaticCalculator\StaticCalculator\obj\Debug\StaticCalculator.Properties.Resources.resources
+C:\Users\kamil\source\repos\StaticCalculator\StaticCalculator\obj\Debug\StaticCalculator.csproj.GenerateResource.cache
+C:\Users\kamil\source\repos\StaticCalculator\StaticCalculator\obj\Debug\StaticCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\StaticCalculator\StaticCalculator\obj\Debug\StaticCalculator.exe
+C:\Users\kamil\source\repos\StaticCalculator\StaticCalculator\obj\Debug\StaticCalculator.pdb
