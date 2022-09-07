@@ -1,0 +1,11 @@
+C:\Users\kamil\source\repos\WinFormsWordsSum\WinFormsWordsSum\bin\Debug\WinFormsWordsSum.exe.config
+C:\Users\kamil\source\repos\WinFormsWordsSum\WinFormsWordsSum\bin\Debug\WinFormsWordsSum.exe
+C:\Users\kamil\source\repos\WinFormsWordsSum\WinFormsWordsSum\bin\Debug\WinFormsWordsSum.pdb
+C:\Users\kamil\source\repos\WinFormsWordsSum\WinFormsWordsSum\obj\Debug\WinFormsWordsSum.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\WinFormsWordsSum\WinFormsWordsSum\obj\Debug\WinFormsWordsSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamil\source\repos\WinFormsWordsSum\WinFormsWordsSum\obj\Debug\WinFormsWordsSum.Form1.resources
+C:\Users\kamil\source\repos\WinFormsWordsSum\WinFormsWordsSum\obj\Debug\WinFormsWordsSum.Properties.Resources.resources
+C:\Users\kamil\source\repos\WinFormsWordsSum\WinFormsWordsSum\obj\Debug\WinFormsWordsSum.csproj.GenerateResource.cache
+C:\Users\kamil\source\repos\WinFormsWordsSum\WinFormsWordsSum\obj\Debug\WinFormsWordsSum.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\WinFormsWordsSum\WinFormsWordsSum\obj\Debug\WinFormsWordsSum.exe
+C:\Users\kamil\source\repos\WinFormsWordsSum\WinFormsWordsSum\obj\Debug\WinFormsWordsSum.pdb
